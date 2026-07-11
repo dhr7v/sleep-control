@@ -13,5 +13,11 @@ After apple freaks out, calm it down like this -
 
 <img width="492" height="306" alt="image" src="https://github.com/user-attachments/assets/36502799-4a60-444e-bc2f-45e34092ef2f" />
 
-Click open Anyway.
+Click Open Anyway.
 Launch Sleep Control.
+
+Upgrade -
+`brew upgrade dhr7v/sleep-control/sleep-control`
+<img width="737" height="186" alt="image" src="https://github.com/user-attachments/assets/461fb3a2-f7c8-45db-aa86-c80b873bf853" />
+
+Rant : I can't believe I can't keep my shit on with the lid closed but I have to click allow 7 times and put my password 4 times to be allowed to use my own app. 
