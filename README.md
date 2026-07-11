@@ -18,8 +18,8 @@ Launch Sleep Control.
 
 To Upgrade to the latest version if required -
 PASTE : `brew upgrade dhr7v/sleep-control/sleep-control` 
-OUTPUT
 
+OUTPUT
 <img width="737" height="186" alt="image" src="https://github.com/user-attachments/assets/461fb3a2-f7c8-45db-aa86-c80b873bf853" />
 
 Rant : I can't believe I can't keep my shit on with the lid closed but I have to click allow 7 times and put my password 4 times to be allowed to use my own app. 
