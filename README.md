@@ -10,6 +10,8 @@ Install via terminal in 2 steps :
 If you get a Security Warning : Go to System Settings -> Privacy and Security.
 
 After apple freaks out, calm it down like this -
+
 <img width="492" height="306" alt="image" src="https://github.com/user-attachments/assets/36502799-4a60-444e-bc2f-45e34092ef2f" />
 
-Launch Sleep Control
+Click open Anyway.
+Launch Sleep Control.
