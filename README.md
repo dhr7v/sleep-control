@@ -1,6 +1,8 @@
 # SleepControl for Mac v1.0.1
 Easy toggle on/off to stop lids switching pausing my music playback :(
+You can close the application. It simply switches your OS into a state where shutting the lid doesn't insta-kill everything. Enjoy! Share!
 
+Install directly from GitHub Releases or using homebrew (keep updated) as shown below.
 0. Preinstallation steps : Homebrew should be installed [https://brew.sh/]
 
 Install via terminal in 2 steps : 
